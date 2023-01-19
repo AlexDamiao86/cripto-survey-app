@@ -1,11 +1,11 @@
 {
   "root": true,
+  "api": {
+    "projectId": "ylp1i5qu",
+    "dataset": "results"
+  },
   "project": {
     "name": "react-survey-app"
-  },
-  "api": {
-    "projectId": "2n94pwp8",
-    "dataset": "results"
   },
   "plugins": [
     "@sanity/base",
